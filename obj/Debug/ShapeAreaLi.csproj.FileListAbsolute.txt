@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\obj\Debug\ShapeAreaLi.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\obj\Debug\ShapeAreaLi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\obj\Debug\ShapeAreaLi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\bin\Debug\ShapeAreaLi.exe.config
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\bin\Debug\ShapeAreaLi.exe
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\bin\Debug\ShapeAreaLi.pdb
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\bin\Debug\ShapeAReaLi.dll
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\obj\Debug\ShapeAreaLi.csproj.CopyComplete
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\obj\Debug\ShapeAreaLi.exe
+C:\Users\user\OneDrive\day 7\day 7\ShapeAreaLi\ShapeAreaLi\obj\Debug\ShapeAreaLi.pdb
